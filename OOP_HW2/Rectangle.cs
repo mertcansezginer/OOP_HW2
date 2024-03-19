@@ -14,7 +14,7 @@
             Height = height;                                         // base yazarak inherit edilen classin constructor ini cagiriyoruz.
         }
 
-        public double Width { get; set; } //auto-implementation islemi, width set ediliyor, Width get ediliyor...
+        public double Width { get; set; } //auto-implementation islemi
 
         
         public double Height { get; set; } //auto-implementation 
